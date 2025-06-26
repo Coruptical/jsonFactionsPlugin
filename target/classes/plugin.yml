@@ -1,0 +1,9 @@
+name: JsonFactionsStorage
+version: '1.0-SNAPSHOT'
+main: me.coruptical.jsonfactionsstorage.JsonFactionsStorage
+api-version: 1.19
+authors: [ Coruptical ]
+description: Plugin designed to test the efficiency of serializing classes to be stored in JSON.
+commands:
+  factions:
+    description: Command for managing factions.

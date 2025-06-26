@@ -1,0 +1,16 @@
+me\coruptical\jsonfactionsstorage\listeners\ChunkEnterEvent.class
+me\coruptical\jsonfactionsstorage\dynmap\DynmapEngine$2.class
+me\coruptical\jsonfactionsstorage\dynmap\DynmapEngine.class
+me\coruptical\jsonfactionsstorage\data_stuff\Faction.class
+me\coruptical\jsonfactionsstorage\utils\FactionUtils.class
+me\coruptical\jsonfactionsstorage\JsonFactionsStorage.class
+me\coruptical\jsonfactionsstorage\dynmap\DynmapEngine$Direction.class
+me\coruptical\jsonfactionsstorage\utils\SHandler.class
+me\coruptical\jsonfactionsstorage\utils\SQLUtils.class
+me\coruptical\jsonfactionsstorage\dynmap\TileFlags.class
+me\coruptical\jsonfactionsstorage\commands\Factions.class
+me\coruptical\jsonfactionsstorage\utils\JsonUtils.class
+me\coruptical\jsonfactionsstorage\dynmap\DynmapEngine$1.class
+me\coruptical\jsonfactionsstorage\dynmap\TempMarkerSet.class
+me\coruptical\jsonfactionsstorage\dynmap\TempAreaMarker.class
+me\coruptical\jsonfactionsstorage\data_stuff\FastChunk.class

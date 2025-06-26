@@ -1,0 +1,25 @@
+#Refresh in seconds. How often dynmap will be update regions on the map.
+RefreshInterval: 10
+
+#The layer name on the map.
+LayerName: 'Regions'
+
+# Other marker set information
+MinimumZoom: 0
+LayerPriority: 10
+HideByDefault: false
+
+#Marker Styles
+MarkerLineWeight: 2
+MarkerLineOpacity: 0.8
+MarkerFillOpacity: 0.35
+
+#Default marker styles
+MarkerLineColor: '#ff0000'
+MarkerFillColor: '#ff0000'
+
+#Age stuff
+CurrentAge: 'Primitive'
+
+# Dynmap important
+DynmapWorld: 'world'
